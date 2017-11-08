@@ -1,1 +1,7 @@
-theme: jekyll-theme-architect
+# Site settings
+title: 刘利平的博客
+email: abbotllp@163.com
+description: "这里是刘利平的博客，虽然我本人也不知道用来干啥～～"
+keyword: "刘利平, 博客, 个人网站, 互联网,吃吃吃"
+url: "https://abbotllp.github.io"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
